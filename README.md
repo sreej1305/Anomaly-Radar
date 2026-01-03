@@ -1,23 +1,15 @@
 # Anomaly Radar
 
-## 🧠 What You Build
+## Project Overview
+Anomaly Radar is a Python-based system designed to ensure data integrity and reliability in dynamic environments. It is capable of:
 
-A Python system that:
-- Simulates time-based datasets
-- Detects anomalies & distribution drift
-- Explains why data changed
-- Visualizes drift patterns clearly
+- **Simulating Time-Based Datasets**: Generates realistic time-series data for testing and validation.
+- **Detecting Anomalies & Drift**: Identifies outliers and distribution shifts in real-time.
+- **Root Cause Analysis**: Explains *why* data patterns have changed.
+- **Visualizing Patterns**: Provides clear, actionable visualizations of drift and anomalies.
 
-This is used heavily in:
-- ✔ Data engineering
-- ✔ ML platforms (IBM, Google, Amazon)
-- ✔ Monitoring systems
-
-## 🧩 Notebook Flow (Colab-Friendly)
-
-### 1️⃣ Generate Time-Series Data
-Simulate metrics like:
-- User activity
-- System load
-- Revenue
-- Error rate
+## Use Cases
+This system is essential for:
+- Data Engineering Pipelines
+- Machine Learning Platforms (e.g., IBM, Google, Amazon)
+- Real-time Monitoring Systems
